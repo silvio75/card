@@ -5,8 +5,7 @@
 </head>
 
 <body>
-
-<!-- Menu de navigation du site -->
+<script src="script/index.js"></script>
 <ul class="navbar">
   <li><a href="index.html">Home page</a>
   <li><a href="reflexions.html">Réflexions</a>
