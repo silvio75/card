@@ -5,7 +5,10 @@
 </head>
 
 <body>
-<script src="script/index.js"></script>
+
+numero de telephone
+<!-- Menu de navigation du site -->
+
 <ul class="navbar">
   <li><a href="index.html">Home page</a>
   <li><a href="reflexions.html">Réflexions</a>
